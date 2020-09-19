@@ -32,20 +32,20 @@ int main() {
   
   
   /* Add your test functions in this format for testing*/
-  CU_add_test(suite, "add", test_add);
-  CU_add_test(suite, "subtract", test_subtract);
-  CU_add_test(suite, "multiply", test_multiply);
-  CU_add_test(suite, "divide", test_divide);
-  CU_add_test(suite, "Remainder", test_divide);
-  CU_add_test(suite, "Increment", test_divide);
-  CU_add_test(suite, "decrement", test_divide);
-  CU_add_test(suite, "checkequality", test_divide);
-  CU_add_test(suite, "checkinequality", test_divide);
-  CU_add_test(suite, "greaterthan", test_divide);
-  CU_add_test(suite, "Lesserthan", test_divide);
-  CU_add_test(suite, "LogicalAND", test_divide);
-  CU_add_test(suite, "LogicalOR", test_divide);
-  CU_add_test(suite, "LogicalNOT", test_divide);
+  CU_add_test(suite, "1", test_add);
+  CU_add_test(suite, "2", test_subtract);
+  CU_add_test(suite, "3", test_multiply);
+  CU_add_test(suite, "4", test_divide);
+  CU_add_test(suite, "5", test_divide);
+  CU_add_test(suite, "6", test_divide);
+  CU_add_test(suite, "7", test_divide);
+  CU_add_test(suite, "8", test_divide);
+  CU_add_test(suite, "9", test_divide);
+  CU_add_test(suite, "10", test_divide);
+  CU_add_test(suite, "11", test_divide);
+  CU_add_test(suite, "12", test_divide);
+  CU_add_test(suite, "13", test_divide);
+  CU_add_test(suite, "14", test_divide);
 
 
 /* Note: Do not edit START*/
